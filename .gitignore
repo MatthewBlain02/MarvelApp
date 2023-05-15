@@ -40,3 +40,5 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+src/app/img/GitHubDesktopSetup-x64.exe
+src/app/img/OBS-Studio-29.1.1-Full-Installer-x64.exe
