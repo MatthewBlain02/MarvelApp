@@ -1,0 +1,15 @@
+.hero{
+    background-image: url('img/herobg.jpg');
+    background-size: cover;
+    height: 94vh;
+    width: 100%;
+    color: white;
+
+}
+.villains{
+    background-image: url('img/villains.jpg');
+    background-size: cover;
+    height: 94vh;
+    width: 100%;
+    color: white;
+}

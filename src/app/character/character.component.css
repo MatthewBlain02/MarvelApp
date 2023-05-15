@@ -1,0 +1,4 @@
+.comics-container {
+  max-height: 60vh;
+  overflow-y: auto;
+}

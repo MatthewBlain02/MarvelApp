@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "marvel-api-4331b",
+    "prod": "marvel-api-4331b",
+    "staging": "marvelapi-1fcae"
+  },
+  "targets": {},
+  "etags": {}
+}
